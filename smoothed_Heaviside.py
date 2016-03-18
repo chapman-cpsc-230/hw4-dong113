@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 16 23:59:17 2016
 
-@author: Lisa is Awesome
-"""
 
 import math 
 
