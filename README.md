@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:**Lisa Dong
 
-**Due date:** _\<date\>_
+**Due date:**3/18/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+do exercises 3.24, 3.25, and 3.35 from textbook. also make a histogram , a fancier histogram program, and a program that counts the number of digits in an integer
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+how to use loops to do find info about a number, that functions can take more than one variable, for loops can take in up to 3 values, how to make code more efficient, oh and functions are generally supposed to return values, not print stuff
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Lisa Dong
